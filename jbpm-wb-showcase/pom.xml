@@ -1084,6 +1084,12 @@
       <artifactId>dashbuilder-navigation-api</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>org.dashbuilder</groupId>
+      <artifactId>dashbuilder-external-backend</artifactId>
+      <scope>runtime</scope>
+    </dependency>
+
     <!-- Start Forms Engine -->
     <dependency>
       <groupId>org.kie.workbench.forms</groupId>
